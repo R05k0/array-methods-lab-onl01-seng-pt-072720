@@ -6,4 +6,6 @@ def using_reverse(array)
   array.reverse
 end
 
-def using_last
+def using_last(array)
+  array.last 
+end 
