@@ -11,4 +11,6 @@ def using_last(array)
 end 
 
 def using_sort(array)
-  array_sort
+ sorted_array = array.sorted_array
+ sorted_array
+ end 
