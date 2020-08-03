@@ -14,3 +14,7 @@ def using_sort(array)
  sorted_array = array.sort 
  sorted_array
  end 
+ 
+ using_first(array)
+ array.first 
+ end
